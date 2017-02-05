@@ -8,5 +8,6 @@ public class File4 {
     //some changes added in branch
     //some my changes in File4
     //some changes by another user
+    //some additional changes done by me 2
 
 }
