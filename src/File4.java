@@ -6,4 +6,5 @@ public class File4 {
     //some additional changes in File4
     //some local changes in file4
     //some changes added in branch
+    //some my changes in File4
 }
